@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+  
+    <!-- Page title -->
+    <title>Put your page title here</title>
+    <!-- Page title -->
+    
+    <!-- description tag -->
+    <meta name="description" content="" /> 
+    <!-- description tag -->
+
+    <!-- Framework CSS -->
+    <link rel="stylesheet" href="css/screen.css" type="text/css" media="screen, projection">
+    
+    <link rel="stylesheet" href="css/print.css" type="text/css" media="print">
+   
+    <!--[if lt IE 8]><link rel="stylesheet" href="css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+
+    <!-- Import fancy-type plugin for the sample page. -->
+    <link rel="stylesheet" href="plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+     <link rel="stylesheet" href="css/my.css" type="text/css" media="screen, projection">
+     <link href='http://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <div class="top">
+    <div class="container">
+    
+    <!-- website name -->
+    <h2 class="fontcolor">Fred's shop</h2>
+    <!-- website name -->
+    
+    </div>
+    </div><!-- Top box ends -->
+     <div class="container">
+<div class="span-16 colborder">
+<!-- put web page content beneath this line -->
+
+<!-- web page content starts here -->
+
+	
+   <h1>Wecome to my home page</h1>  
+	
+   <p>Vestibulum gravida sagittis nisi sit amet tempor. Nulla facilisi. Vivamus tristique feugiat arcu posuere venenatis. Vestibulum iaculis odio sit amet erat hendrerit fringilla. Curabitur ultricies cursus tellus, sed facilisis odio tincidunt sit amet. Nam sollicitudin porttitor suscipit. Nulla pretium varius risus vitae varius. Nulla facilisi. Nullam purus felis, ullamcorper sed elementum id, rutrum at nibh. Vestibulum orci ipsum, facilisis eget facilisis non, adipiscing at nunc. </p>
+       
+	
+   <h2>Sub head </h2> 
+    
+   <p>Vestibulum gravida sagittis nisi sit amet tempor. Nulla facilisi. Vivamus tristique feugiat arcu posuere venenatis. Vestibulum iaculis odio sit amet erat hendrerit fringilla. Curabitur ultricies cursus tellus, sed facilisis odio tincidunt sit amet. Nam sollicitudin porttitor suscipit. Nulla pretium varius risus vitae varius. Nulla facilisi. Nullam purus felis, ullamcorper sed elementum id, rutrum at nibh. Vestibulum orci ipsum, facilisis eget facilisis non, adipiscing at nunc. </p>
+       
+
+<!-- web page content ends here -->
+
+  
+  
+
+<!-- put web page content above this line -->
+      </div>
+      <div class="span-7 last">
+      
+      
+      <!-- sidebar content starts here -->
+      
+<ul>
+<a href="index.html"><li>Home</li></a>
+<a href="blog.html"><li>My Blog</li></a>
+<a href="about.html"><li>About This Site</li></a>
+</ul>
+      
+      
+            <!-- sidebar content ends here -->
+         </div></div>   
+  <div class="bot">
+    <div class="container">
+    <h2 class="alt">Useful links...</h2>
+    <div class="span-8">
+   <div class="navcontainer">
+<ul class="navlist">
+
+<li><a href="http://css.maxdesign.com.au/listamatic/">Listamatic:</a> - One list, many options -  Using CSS and a simple list to create radically different list options.</li>
+<li><a href="http://www.w3schools.com/">W 3 Schools:</a> - Tutorials and code examples for budding web designers and coders.</li>
+<li><a href="http://bluefish.openoffice.nl/index.html">Bluefish:</a> - Website and plain text editor supports many programming and markup languages, and it focuses on editing dynamic and interactive websites.</li>
+
+</ul>
+</div>
+</div>
+
+      <div class="span-8">
+      <div class="navcontainer">
+<ul class="navlist">
+
+<li><a href="http://www.smushit.com/ysmush.it/">Smush.it:</a> - optimizes images without changing their look or visual quality. Making your pages load fast and look good. If you don't have your own image editor you need to Smush.it! (Part of the Yahoo! developer network,)</li>
+<li><a href="http://kuler.adobe.com/">Adobe Kuler:</a> - A colour scheme site with inspiration and ideas. You can use the colours in the ready made schemes or design your own and leave them for others to use. If you're artistically challenged this site is a must.</li>
+<li><a href="http://www.gimp.org/">Gimp:</a> - A good quality free image editor. If you are considering buying an image editor try Gimp first. I think you'll be pleasantly surprised.e.</li>
+
+</ul>
+</div>
+      </div>
+      
+      <div class="span-8 last"><div class="navcontainer">
+<ul class="navlist">
+
+<li><a href="http://www.google.co.uk/">Google:</a> - search engine. If you can't find it on Google it's probably no there!</li>
+<li><a href="http://uk.ask.com">Ask:</a> - Ask Jeeves a question and Jeeves will answer it. Britain's leading question-and-answer service is as ready for your questions as ever. Try it now.</li>
+<li><a href="Bing:">Bing:</a> - Microsoft's search engine, does it compare to Google? You decide.</li>
+
+</ul>
+
+</div>
+<div>
+
+
+</div>
+      </div>
+      <hr>
+      
+      <div class="span-24 last">
+<p><span class="dquo">I made this website using &#8220;<a style="color: #fff" href="http://blueprintcss.org/">Blueprint</a>, a CSS framework which aims to cut down on your development time. It gives you a solid foundation to build your project on top of, with an easy-to-use grid, sensible typography, useful plugins, and even a stylesheet for printing.&#8221; Why not <a style="color: #fff" href="http://blueprintcss.org/">try it yourself</a>?</span></p>
+ <hr class="space"> <hr class="space"> <hr class="space"> <hr class="space">
+
+    </div>
+
+
+    </div><!-- Bot box ends -->
+    
+
+      
+  </body>
+</html>

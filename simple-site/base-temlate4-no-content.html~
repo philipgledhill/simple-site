@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Blueprint Sample Page</title>
+    
+    <!-- description tag -->
+    <meta name="description" content="Free Web tutorials on HTML, CSS, XML" /> 
+    <!-- description tag -->
+
+    <!-- Framework CSS -->
+    <link rel="stylesheet" href="screen.css" type="text/css" media="screen, projection">
+    
+    <link rel="stylesheet" href="print.css" type="text/css" media="print">
+   
+    <!--[if lt IE 8]><link rel="stylesheet" href="ie.css" type="text/css" media="screen, projection"><![endif]-->
+
+    <!-- Import fancy-type plugin for the sample page. -->
+    <link rel="stylesheet" href="plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+     <link rel="stylesheet" href="my.css" type="text/css" media="screen, projection">
+     <link href='http://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <div class="top">
+    <div class="container">
+    
+    <!-- website name -->
+    <h2 class="fontcolor">Put your site name here!</h2>
+    <!-- website name -->
+    
+    </div>
+    </div><!-- Top box ends -->
+     <div class="container">
+<div class="span-16 colborder">
+<!-- web page content starts here -->
+
+
+
+			
+  
+  
+
+<!-- web page content ends here -->
+      </div>
+      <div class="span-7 last">
+      
+      
+      <!-- sidebar content starts here -->
+      
+<ul>
+<li>Home</li>
+<li>My Blog</li>
+<li>About This Site</li>
+</ul>
+      
+      
+            <!-- sidebar content ends here -->
+      </div></div>   
+  <div class="bot">
+    <div class="container">
+    <h2 class="alt">Useful links...</h2>
+    <div class="span-8">
+   <div class="navcontainer">
+<ul class="navlist">
+
+<li><a href="http://css.maxdesign.com.au/listamatic/">Listamatic:</a> - One list, many options -  Using CSS and a simple list to create radically different list options.</li>
+<li><a href="http://www.w3schools.com/">W 3 Schools:</a> - Tutorials and code examples for budding web designers and coders.</li>
+<li><a href="http://www.lynda.com">Lynda.com:</a> - Software training online-tutorials for Adobe, Microsoft, Apple & more.</li>
+
+</ul>
+</div>
+</div>
+
+      <div class="span-8">
+      <div class="navcontainer">
+<ul class="navlist">
+
+<li><a href="http://myws.sitesell.com/">Make Your Words Sell!:</a> - (Scroll to bottom of page to download your free e-book.
+Make Your Words Sell! The Simple Art of e-Persuasion.</li>
+<li><a href="http://www.copyblogger.com/seo-copywriting/">Copy blogger:</a> - SEO copywriting goes well beyond web page copy with targeted keyword phrases. This free report reveals the tips, secrets, and strategies of writing for search engine optimization.</li>
+<li><a href="http://www.seobook.com/">SEO Book.com:</a> - SEO Training Made Easy(ish). If your boss wants to invest some serious money in SEO visit this site.</li>
+
+</ul>
+</div>
+      </div>
+      
+      <div class="span-8 last"><div class="navcontainer">
+<ul class="navlist">
+
+<li><a href="http://www.google.co.uk/">Google:</a> - search engine. If you can't find it on Google it's probably no there!</li>
+<li><a href="http://uk.ask.com">Ask:</a> - Ask Jeeves a question and Jeeves will answer it. Britain's leading question-and-answer service is as ready for your questions as ever. Try it now.</li>
+<li><a href="Bing:">Bing:</a> - Microsoft's search engine, does it compare to Google? You decide.</li>
+
+</ul>
+
+</div>
+<div>
+
+
+</div>
+      </div>
+      <hr>
+      
+      <div class="span-24 last">
+<p><span class="dquo">I made this website using &#8220;<a style="color: #fff" href="http://blueprintcss.org/">Blueprint</a>, a CSS framework which aims to cut down on your development time. It gives you a solid foundation to build your project on top of, with an easy-to-use grid, sensible typography, useful plugins, and even a stylesheet for printing.?&#8221; Why not <a style="color: #fff" href="http://blueprintcss.org/">try it yourself</a></span></p>
+ <hr class="space"> <hr class="space"> <hr class="space"> <hr class="space">
+
+    </div>
+
+
+    </div><!-- Bot box ends -->
+    
+
+      
+  </body>
+</html>

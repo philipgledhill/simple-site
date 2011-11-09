@@ -1,0 +1,18 @@
+This website is built from Blueprint a CSS framework.
+http://blueprintcss.org/
+
+Thank you to the people who allowed their work to be included for our benefit.
+Olav Bjorkoy
+Christian Montoya
+Franz Josef Kaiser
+Glenn Rempe
+Chris Eppstein
+Sean K. Stewart
+Jeff Croft
+Nathan Borror
+Christian Metts
+Wilson Miner
+Eric Meyer
+Mark Boulton
+
+And a special thank you to Joshua Clayton.
