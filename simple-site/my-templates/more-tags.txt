@@ -1,45 +1,31 @@
 <!-- more tags to use on your web page -->
 
+<!-- I explain how to use these tags in the YouTube videos -->
 
-<!-- put an image on your page -->
+http://youtu.be/ELkLHsSXA10
+
+http://youtu.be/llP4gvgFNVY
+
+
+
+
+   <h1> </h1> 
+       	
+   <h2> </h2> 
+    
+   <p> </p>
+
 <img border="5" src="images/dog.jpg" class="left" width="270" height="180" alt="My dog" />
 
 
-<!-- //////////////////////////////////////////// -->
-
-
-<!-- put an image inside a paragraph -->
-
 <p> <img border="5" src="images/dog.jpg" class="left" width="270" height="180" alt="My dog" /> Lots of paragraph text here...</p>
 
-<!-- //////////////////////////////////////////// -->
-
-
-
-
-
-<!-- horizontal rule this makes a line across the page -->
 
 <hr>
 
-<!-- //////////////////////////////////////////// -->
 
+<hr class="space">
 
-
-
-
-<!-- add some vertical space -->
-
- <hr class="space">
-
-<!-- //////////////////////////////////////////// -->
-
-
-
-
-
-
-<!-- make a bulleted list -->
 
 <p>My list</p>
 <ul>
@@ -49,15 +35,8 @@
 <li>Four</li>
 </ul>   
 
-<!-- //////////////////////////////////////////// -->
 
-
-
-
-
-<!-- make a bulleted list with links -->
-
-<p>My list</p>
+<p>My list with links</p>
 <ul>
 <li><a href="http://www.google.co.uk/">One</a></li>
 <li><a href="http://www.google.co.uk/">Two</a></li>
@@ -66,18 +45,9 @@
 </ul>   
 
 
-<!-- //////////////////////////////////////////// -->
-
-
-
-
-
-    
-<!-- add a link to any part of your page -->
-
 <a href="http://www.google.co.uk/">Google</a>
 
-<!-- //////////////////////////////////////////// -->
+
 
 
 
